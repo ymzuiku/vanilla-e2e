@@ -1,0 +1,8 @@
+{
+  "name": "vanilla-e2e",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:ymzuiku/vanilla-e2e.git",
+  "author": "pillar <ymblender@gmail.com>",
+  "license": "MIT"
+}
